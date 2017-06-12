@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PopularMovies2</string>
+    <string name="api_key_string">XXX</string>
+    <string name="sort_by_popularity">popular</string>
+    <string name="sort_by_rating">top_rated</string>
+    <string name="error_message">if you see this then you got your self a good ole fashion error duh</string>
+    <string name="menu_sort_by_1">Popularity</string>
+    <string name="menu_sort_by_2">Ratings</string>
+    <string name="menu_sort_by_3">Favourites</string>
+    <string name="menu_sort_by_group">Sort</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
